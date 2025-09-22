@@ -101,7 +101,5 @@ area3.html
 ![alt text](<Screenshot 2025-09-22 220103.png>)
 
 
-
-
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
